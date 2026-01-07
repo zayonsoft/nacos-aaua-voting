@@ -12,7 +12,7 @@
 				<!-- Main content -->
 				<section class="content">
 					<?php
-					$parse = parse_ini_file('admin434nacos/config.ini', FALSE, INI_SCANNER_RAW);
+					$parse = parse_ini_file('nacos_admin/config.ini', FALSE, INI_SCANNER_RAW);
 					$title = $parse['election_title'];
 					?>
 					<h1 class="page-header text-center title"><b><?php echo strtoupper($title); ?></b></h1>
