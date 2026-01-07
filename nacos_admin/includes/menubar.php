@@ -25,6 +25,7 @@
       <li class="header">SETTINGS</li>
       <li class=""><a href="ballot"><i class="fa fa-file-text"></i> <span>Ballot Position</span></a></li>
       <li class=""><a href="#config" data-toggle="modal"><i class="fa fa-cog"></i> <span>Election Title</span></a></li>
+      <li><a href="logout"><i class="fa fa-sign-out"></i> Logout</a></li>
     </ul>
   </section>
   <!-- /.sidebar -->

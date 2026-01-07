@@ -1,7 +1,7 @@
 <?php
 session_start();
 if (isset($_SESSION['admin'])) {
-	header('location: admin434nacos/home');
+	header('location: nacos_admin/home');
 }
 
 if (isset($_SESSION['voter'])) {
