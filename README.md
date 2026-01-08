@@ -13,11 +13,12 @@ This system is designed to operate locally and supports seamless connectivity to
 
 ## Table of Contents
 
--[Getting Started](#getting-started)
-
+- [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation) -[Server Web Interface](#web-interface-for-the-server-computer-on-the-device-that-is-the-server)
-- [Connecting Multiple Systems](#connecting-the-systems-on-the-same-network) -[Interface For Client Computers](#web-interface-for-clients-connected-computers)
+  - [Installation](#installation)
+  - [Server Web Interface](#web-interface-for-the-server-computer-on-the-device-that-is-the-server)
+- [Connecting Multiple Systems](#connecting-the-systems-on-the-same-network)
+- [Interface For Client Computers](#web-interface-for-clients-connected-computers)
 
 ---
 
